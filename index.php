@@ -9,7 +9,7 @@ include ("inc/header.php");
 
 
   <div class="container">
-    <div id="quote-box">git
+    <div id="quote-box">
 
       <?php
 
