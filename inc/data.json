@@ -1,0 +1,65 @@
+[
+  { "id":0,
+    "quote": "Life is what happens when you\u2019re busy making other plans",
+    "source": {
+      "author": "John Lennon",
+      "citation": "Lyrics",
+      "year": "1980"
+    },
+    "tags": [
+      "music",
+      "life"
+    ]
+  },
+  { "id":1,
+    "quote": "Those who dare to fail miserably can achieve greatly",
+    "source": {
+      "author": "John F. Kennedy",
+      "citation": "Speech",
+      "year": ""
+    },
+    "tags": [
+      "life",
+      "true"
+    ]
+  },
+  { "id":2,
+    "quote": "The secret of happiness, you see is not found in seeking more, but in developing the capacity to enjoy less.",
+    "source": {
+      "author": "Soctrates",
+      "citation": "Philosophy",
+      "year": "484 BC chr"
+    },
+    "tags": [
+      "philosophy",
+      "true",
+      "life"
+    ]
+  },
+  { "id":3,
+    "quote": "Hasta la vista, baby",
+    "source": {
+      "author": "Terminator",
+      "citation": "Movie",
+      "year": "1991"
+    },
+    "tags": [
+      "famous",
+      "movie",
+      "funny"
+    ]
+  },
+  { "id":4,
+    "quote": "It is not enough for code to work.",
+    "source": {
+      "author": "Robert C. Martin \"Uncle Bob\" ",
+      "citation": "Publication",
+      "year": "2008"
+    },
+    "tags": [
+      "programming",
+      "coding",
+      "true"
+    ]
+  }
+]
